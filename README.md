@@ -28,3 +28,5 @@ This is sample version for study, will be updated later.
 
 Copyright (c) 2016, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
+
+[http://picomax.net/77462](http://picomax.net/77462)
